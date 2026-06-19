@@ -1,0 +1,4 @@
+// Experiment 1 me JavaScript required nahi hai.
+// Sirf testing ke liye message.
+
+console.log("Responsive Web Page Loaded Successfully!");
