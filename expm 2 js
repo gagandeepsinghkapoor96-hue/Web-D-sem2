@@ -1,0 +1,6 @@
+console.log("TechStore Loaded Successfully");
+
+// Optional Welcome Message
+window.onload = function () {
+    console.log("Bootstrap Components Working Fine");
+};
