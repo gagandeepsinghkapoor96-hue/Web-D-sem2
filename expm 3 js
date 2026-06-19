@@ -1,0 +1,7 @@
+// Join Button Event
+
+document.getElementById("joinBtn").addEventListener("click", function () {
+    alert("Welcome to FitLife!");
+});
+
+console.log("FitLife Website Loaded Successfully");
